@@ -623,7 +623,7 @@ p {
     color: #ee163a; }
   .header-countdown .single-count-content.count-color-2 .count,
   .header-countdown .single-count-content.count-color-2 .text {
-    color: #fff; }
+    color: #F5EBD8; text-shadow: 0 4px 20px rgba(0,0,0,0.8); }
   .header-countdown .single-count-content.count-color-3 .count,
   .header-countdown .single-count-content.count-color-3 .text {
     color: #03a9f4; }
