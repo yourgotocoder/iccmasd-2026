@@ -70,8 +70,12 @@ p {
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
-  color: #777777;
+  color: #000 !important;
   margin: 0px; }
+
+li {
+  color: #000 !important;
+  text-align: justify; }
 
 .bg_cover {
   background-position: center center;
@@ -1174,8 +1178,9 @@ p {
   .single-pricing .pricing-list {
     padding-top: 15px; }
     .single-pricing .pricing-list ul li {
-      font-size: 16px;
-      color: #777777;
+      font-size: 17px;
+      font-weight: 600;
+      color: #000 !important;
       margin-top: 15px; }
   .single-pricing .pricing-btn {
     padding-top: 30px; }
